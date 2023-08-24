@@ -21,4 +21,5 @@ let rex = new cachorro("rex", "labrador" , 3)
 let thor =new cachorro("thor", "bulldog" , 2)
 console.log(rex.nome);
 console.log(thor.nome);
+console.log(rex.apresentarPara("andré"))
 

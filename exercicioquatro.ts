@@ -1,7 +1,7 @@
 class salario {
     nome: string;
     cargo: string;
-    salario: number
+    private salario: number
 
 
     constructor(nome: string, cargo: string, salario: number) {
